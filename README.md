@@ -16,3 +16,4 @@ IT Student focused on Linux, Networking, and Cybersecurity.
 
 ## Connect
 Instagram: @node.em_
+https://www.linkedin.com/in/emmanuel-avila-8475a1367/
