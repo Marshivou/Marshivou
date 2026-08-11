@@ -96,7 +96,7 @@ Ubuntu Server VM as a live web server — Nginx, SSH remote admin, UFW firewall,
 
 <p align="left">
   <a href="https://www.linkedin.com/in/node-em"><img src="https://img.shields.io/badge/-LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=A9764B" alt="LinkedIn"/></a>
-  <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID"><img src="https://img.shields.io/badge/-HackTheBox-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=A9764B" alt="HTB"/></a>
+  <a href="https://app.hackthebox.com/profile/3836259"><img src="https://img.shields.io/badge/-HackTheBox-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=A9764B" alt="HTB"/></a>
   <a href="https://instagram.com/node.em_"><img src="https://img.shields.io/badge/-Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=A9764B" alt="Instagram"/></a>
   <a href="mailto:emm.avila34@gmail.com"><img src="https://img.shields.io/badge/-Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=A9764B" alt="Email"/></a>
 </p>
