@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="node.em_ banner"/>
+<img src="<img width="1200" height="280" alt="Image" src="https://github.com/user-attachments/assets/7d4d2bcf-7890-4bca-8371-fad8bee396af"/>
 
 <br/>
 
